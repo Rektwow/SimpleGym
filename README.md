@@ -4,11 +4,16 @@ This repository contains a simple gym website created using HTML and CSS.
 This project was developed as a beginner's exercise to understand the basics of web development. 
 Please note that this website is optimized for desktop viewing only.
 
+## Link
+https://rektwow.github.io/SimpleGym/
+
 ### Installation
 1.Clone the repository using the following command:
+
 git clone https://github.com/your-username/simple-gym-website.git
 
 2.Navigate to the project directory:
+
 cd simple-gym-website
 
 3.Open the index.html file in a web browser to view the website.
